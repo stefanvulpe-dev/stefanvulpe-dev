@@ -3,8 +3,6 @@
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stefanvulpe-dev&label=Profile%20views&color=0e75b6&style=flat" alt="stefanvulpe-dev" /> </p>
-
 - 🔭 I’m currently working on **faculty and personal projects**
 
 - 🌱 I’m currently learning **React, C#, .NET**
