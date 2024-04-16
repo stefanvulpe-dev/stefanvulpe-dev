@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **faculty and personal projects**
 
-- 🌱 I’m currently learning **React, C#, .NET**
+- 🌱 I’m currently learning **React, Cloud computing**
 
 - 💬 Ask me about **anything you like**
 
